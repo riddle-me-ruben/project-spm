@@ -15,7 +15,7 @@ export const TEAM = [
   },
   {
     id: 'rjm',
-    name: 'Ruben Martinez',
+    name: 'Ruben J. Martinez',
     initials: 'RM',
     role: 'Lead Engineer / Architecture',
     color: 'bg-emerald-600',
